@@ -1,7 +1,7 @@
 <h1>Hi, I'm Prince</h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=srince77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srince77.srince77&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views" />
 </p>
 
 Full-stack engineer.
